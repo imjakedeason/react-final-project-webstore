@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Monitors",
+    "slug": "monitors",
+    "image": "https://vacom.hr/wp-content/uploads/2024/06/Xiaomi_Gaming_Monitor_G27i_EU_0.webp",
+    "subcategories": [
+      { "title": "Gaming monitors", "slug": "gaming-monitors" },
+      { "title": "4K monitors", "slug": "4k-monitors" },
+      { "title": "Monitor supply", "slug": "monitor-supply" }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "PC",
+    "slug": "pc",
+    "image": "https://vacom.hr/wp-content/uploads/2024/06/Xiaomi_Gaming_Monitor_G27i_EU_0.webp",
+    "subcategories": [
+      { "title": "Gaming PCs", "slug": "gaming-pc" },
+      { "title": "Office PCs", "slug": "office-pc" },
+      { "title": "All in One PCs", "slug": "all-in-one" }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "PC Components",
+    "slug": "pc-components",
+    "image": "https://vacom.hr/wp-content/uploads/2024/06/Xiaomi_Gaming_Monitor_G27i_EU_0.webp",
+    "subcategories": [
+      { "title": "Drives HDD/SSD", "slug": "drives-hdd-ssd" },
+      { "title": "Graphics cards", "slug": "graphics-cards" },
+      { "title": "Memories", "slug": "memories" },
+      { "title": "Motherboards", "slug": "motherboards" },
+      { "title": "Power supploes", "slug": "power-supplies" },
+      { "title": "Processors", "slug": "processors" }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Laptops & Laptop accessories",
+    "slug": "laptops-and-accessories",
+    "image": "https://vacom.hr/wp-content/uploads/2024/06/Xiaomi_Gaming_Monitor_G27i_EU_0.webp",
+    "subcategories": [
+      { "title": "Laptops", "slug": "laptops" },
+      { "title": "Laptop accessories", "slug": "laptop-accessories" }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "TV, Audio",
+    "slug": "tv-audio",
+    "image": "https://vacom.hr/wp-content/uploads/2024/06/Xiaomi_Gaming_Monitor_G27i_EU_0.webp",
+    "subcategories": [
+      { "title": "TV", "slug": "tv" },
+      { "title": "Audio", "slug": "audio" }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Other",
+    "slug": "other",
+    "image": "https://vacom.hr/wp-content/uploads/2024/06/Xiaomi_Gaming_Monitor_G27i_EU_0.webp",
+    "subcategories": [{ "title": "Other", "slug": "other-1" }]
+  }
+]
